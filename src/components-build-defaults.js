@@ -10,7 +10,7 @@ module.exports = {
   // Components
   components: {
     globPattern: 'src/components/**/*.html',       // source components to process
-    tempListPath: 'tmp/components.json',           // temporary JSON file built by the index
+    tempListPath: '_craftclips/craftclips-component-list.json',           // temporary JSON file built by the index
     build: {
       pages: true,                                 // false to skip building pages
       screenshots: true,                           // false to skip building screenshots
