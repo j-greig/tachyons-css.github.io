@@ -1,25 +1,8 @@
 const chalk = require('chalk');
 const co = require('co');
 const prettyHrtime = require('pretty-hrtime');
-
 const startTime = process.hrtime();
-
-// require('./src/header-build')()
-// require('./src/gallery-build')()
-// require('./src/resources-build')()
-// console.log('header build complete')
-// require('./src/table-of-styles-build')()
-// console.log('table of styles build complete')
-// require('./src/table-of-properties-build')()
-// console.log('table of properties build complete')
-// require('./src/home-build')()
-// console.log('home build complete')
-
 const componentsBuildCraftClips = require('./src/components-build-craftclips');
-// const componentsBuildIndex = require('./src/components-build-index');
-// const componentsBuildRSS = require('./src/components-build-rss');
-// const componentsBuildPages = require('./src/components-build-pages');
-// const componentsBuildScreenshots = require('./src/components-build-screenshots');
 
 // See src/components-build-defaults for list of options that can be overriden
 const options = {

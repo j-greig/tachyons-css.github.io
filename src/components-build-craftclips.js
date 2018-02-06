@@ -10,6 +10,8 @@ const nodegit = require('nodegit');
 const path = require('path');
 const prettyHrtime = require('pretty-hrtime');
 const rmHtmlExt = require('remove-html-extension');
+// const htmlClean = require('html-clean');
+
 
 const defaults = require('./components-build-defaults');
 
@@ -42,7 +44,7 @@ const getComponents = options => new Promise((resolve, reject) => {
     co(function* generator() {
       const repo = yield nodegit.Repository.open(path.resolve('.'));
 
-      const components = [];
+      var components = "";
       for (let comp_idx = 0; comp_idx < componentPaths.length; comp_idx += 1) {
         const componentPath = componentPaths[comp_idx];
 
@@ -59,13 +61,6 @@ const getComponents = options => new Promise((resolve, reject) => {
         const category = tokens[0];
         const id = tokens[1];
 
-        // Compute component signature based on the Tachyons version and the contents of the
-        // component itself. This can be used to bust the browser cache of screenshots.
-        const md5sum = crypto.createHash('md5');
-        md5sum.update(npmPackage.version);
-        md5sum.update(componentHtml);
-        const signature = md5sum.digest('hex');
-
         const page = {
           path: `${targetDir}/index.html`,
           href: `/${targetDir}/index.html`,
@@ -74,31 +69,19 @@ const getComponents = options => new Promise((resolve, reject) => {
           category: options.components.prettify.category
             ? options.components.prettify.category(category) : category,
         };
-        page.title = frontMatter.title ||
-          options.components.page.composeTitle(page.category, page.name);
 
+        // Write to config file
+        components += `[\``;
+        components += frontMatter.name ||
+          (options.components.prettify.id ? options.components.prettify.id(id) : id);
+        components += `\`, \``;
+        components += componentHtml;
+        components += `\`],\n`
 
-        page.href
-
-        // const screenshot = {
-        //   path: `${targetDir}/${options.screenshot.basename}`,
-        //   href: `/${targetDir}/${options.screenshot.basename}?version=${signature}`,
-        // };
-
-        components.push({
-          id,
-          // category,
-          src: componentHtml,
-          // creationTime: firstCommit.date().getTime(),
-          // author: firstCommit.author().toString(),
-          // signature,
-          // page,
-          // screenshot,
-          // This is the raw front matter, as found in the component source, NOT merged
-          // with any defaults, so that it is easier to spot the overrides.
-          // It is up to build scripts to merge with options.components.frontMatter down the road.
-          // frontMatter: srcFrontMatter,
-        });
+        // components.push({
+        //   componentName,
+        //   componentHtml,
+        // });
       }
       resolve(components);
     }); // generator
@@ -111,7 +94,11 @@ module.exports = _options => new Promise((resolve, reject) => {
   console.log(chalk.magenta('Working on components config for Craft CMS / Redactor Clips plugin...'));
   getComponents(options).then((components) => {
     mkdirp.sync(path.dirname(options.components.tempListPath));
-    fs.writeFileSync(options.components.tempListPath, JSON.stringify(components, undefined, 2));
+    fs.writeFileSync(options.components.tempListPath, components);
+    // fs.writeFileSync(options.components.tempListPath, components));
+    // fs.writeFileSync(options.components.tempListPath, JSON.stringify(components), 'utf8', (err) => {
+    //   if (err) throw err;
+    // });
     console.log('- Working on components config for Craft CMS / Redactor Clips plugin:', options.components.tempListPath);
     const elapsed = process.hrtime(startTime);
     console.log(chalk.magenta('Done with Redactor Clips component config file!'), chalk.dim(prettyHrtime(elapsed)));
