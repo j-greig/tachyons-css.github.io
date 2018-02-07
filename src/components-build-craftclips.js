@@ -70,18 +70,17 @@ const getComponents = options => new Promise((resolve, reject) => {
             ? options.components.prettify.category(category) : category,
         };
 
+        // Ignore everything before the first '<' in the component html, eg {{{ this stuff }}}
+        var strippedComponentHtml = componentHtml.substr(componentHtml.indexOf("<"));;
+
         // Write to config file
         components += `[\``;
         components += frontMatter.name ||
           (options.components.prettify.id ? options.components.prettify.id(id) : id);
         components += `\`, \``;
-        components += componentHtml;
+        components += strippedComponentHtml;
         components += `\`],\n`
 
-        // components.push({
-        //   componentName,
-        //   componentHtml,
-        // });
       }
       resolve(components);
     }); // generator

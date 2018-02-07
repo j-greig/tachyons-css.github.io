@@ -7,7 +7,7 @@ const componentsBuildCraftClips = require('./src/components-build-craftclips');
 // See src/components-build-defaults for list of options that can be overriden
 const options = {
   components: {
-    globPattern: 'src/components/pages**/*.html',
+    globPattern: 'src/components/**/*.html',
     // frontMatter: {
     //   bodyClass: 'bg-red',
     //   screenshot: {
