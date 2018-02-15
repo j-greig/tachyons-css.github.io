@@ -61,6 +61,8 @@ const getComponents = options => new Promise((resolve, reject) => {
         const category = tokens[0];
         const id = tokens[1];
 
+        console.log("Processing " + tokens);
+
         const page = {
           path: `${targetDir}/index.html`,
           href: `/${targetDir}/index.html`,
@@ -75,6 +77,7 @@ const getComponents = options => new Promise((resolve, reject) => {
 
         // Write to config file
         components += `[\``;
+        components += category + " / ";
         components += frontMatter.name ||
           (options.components.prettify.id ? options.components.prettify.id(id) : id);
         components += `\`, \``;
