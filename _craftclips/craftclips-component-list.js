@@ -1,4 +1,4 @@
-[`Title Preview Author Media Flipped`, `<section class="mw7 center">
+[`article-lists / Title Preview Author Media Flipped`, `<section class="mw7 center">
   <h2 class="athelas ph3 ph0-l">News</h2>
   <article class="pv4 bt bb b--black-10 ph3 ph0-l">
     <div class="flex flex-column flex-row-ns">
@@ -54,8 +54,8 @@
     <time class="f6 db gray">Nov. 19, 2016</time>
   </article>
 </section>
-`],
-[`Title Preview Author Media`, `<section class="mw7 center avenir">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/article-lists/title-preview-author-media-flipped/screenshot.jpg" >`],
+[`article-lists / Title Preview Author Media`, `<section class="mw7 center avenir">
   <h2 class="baskerville fw1 ph3 ph0-l">News</h2>
   <article class="bt bb b--black-10">
     <a class="db pv4 ph3 ph0-l no-underline black dim" href="#0">
@@ -115,8 +115,8 @@
     </a>
   </article>
 </section>
-`],
-[`Feature`, `<article class="athelas">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/article-lists/title-preview-author-media/screenshot.jpg" >`],
+[`articles / Feature`, `<article class="athelas">
   <div class="vh-100 dt w-100 tc bg-dark-gray white cover" style="background:url(http://mrmrs.github.io/photos/u/009.jpg) no-repeat center;">
     <div class="dtc v-mid">
       <header class="white-70">
@@ -164,8 +164,8 @@
     </p>
   </div>
 </article>
-`],
-[`Full Bleed Background`, `<article data-name="article-full-bleed-background">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/feature/screenshot.jpg" >`],
+[`articles / Full Bleed Background`, `<article data-name="article-full-bleed-background">
   <div class="cf" style="background: url(http://mrmrs.github.io/photos/12.jpg) no-repeat center center fixed; background-size: cover;">
     <div class="fl pa3 pa4-ns bg-white black-70 measure-narrow f3 times">
       <header class="bb b--black-70 pv4">
@@ -186,8 +186,8 @@
     </div>
   </div>
 </article>
-`],
-[`Headline Title Text`, `<article class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/full-bleed-background/screenshot.jpg" >`],
+[`articles / Headline Title Text`, `<article class="pa3 pa5-ns">
   <h1 class="f3 f1-m f-headline-l">Title</h1>
   <p class="measure lh-copy">
     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
@@ -202,8 +202,8 @@
     no sea takimata sanctus est Lorem ipsum dolor sit amet.
   </p>
 </article>
-`],
-[`Large Title Text`, `<article class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/headline-title-text/screenshot.jpg" >`],
+[`articles / Large Title Text`, `<article class="pa3 pa5-ns">
   <h1 class="f3 f2-m f1-l">Title</h1>
   <p class="measure lh-copy">
     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
@@ -218,8 +218,8 @@
     no sea takimata sanctus est Lorem ipsum dolor sit amet.
   </p>
 </article>
-`],
-[`Left Title Top Border`, `<article class="cf ph3 ph5-ns pv5">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/large-title-text/screenshot.jpg" >`],
+[`articles / Left Title Top Border`, `<article class="cf ph3 ph5-ns pv5">
   <header class="fn fl-ns w-50-ns pr4-ns">
     <h1 class="f2 lh-title fw9 mb3 mt0 pt3 bt bw2">
       On Typography
@@ -255,8 +255,8 @@
     </p>
   </div>
 </article>
-`],
-[`Left Title`, `<article class="cf ph3 ph5-ns pv5">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/left-title-top-border/screenshot.jpg" >`],
+[`articles / Left Title`, `<article class="cf ph3 ph5-ns pv5">
   <header class="fn fl-ns w-50-ns pr4-ns">
     <h1 class="mb3 mt0 lh-title">Clay in a Potter's Hand</h1>
     <time class="f6 ttu tracked gray">Jan Tschichold</time>
@@ -283,11 +283,11 @@
     </p>
   </div>
 </article>
-`],
-[`Photo Essay`, `<article class="helvetica pb5">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/left-title/screenshot.jpg" >`],
+[`articles / Photo Essay`, `<article class="helvetica pb5">
   <header class="vh-100 bg-light-pink dt w-100">
-    <div
-      style="background:url(http://mrmrs.github.io/photos/display.jpg) no-repeat center right;background-size: cover;"
+    <div 
+      style="background:url(http://mrmrs.github.io/photos/display.jpg) no-repeat center right;background-size: cover;" 
       class="dtc v-mid cover ph3 ph4-m ph5-l">
       <h1 class="f2 f-subheadline-l measure lh-title fw9">A Night Taking Photos at San Francisco’s Spooky Ruins of the Sutro Baths</h1>
       <h2 class="f6 fw6 black">A story by Nancy Drew</h2>
@@ -348,8 +348,8 @@
     </div>
   </div>
 </article>
-`],
-[`Single Column Large Title`, `<article class="baskerville pb5">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/photo-essay/screenshot.jpg" >`],
+[`articles / Single Column Large Title`, `<article class="baskerville pb5">
   <header class="avenir tc-l ph3 ph4-ns pt4 pt5-ns">
     <h1 class="f3 f2-m f-subheadline-l measure lh-title fw1 mt0">A Night of Taking Photos at the Spooky Ruins of the Sutro Baths</h1>
     <time class="f5 f4-l db fw1 baskerville mb4"> March 19th, 2015</time>
@@ -389,8 +389,8 @@
     </div>
   </div>
 </article>
-`],
-[`Title Highlight Header Cover`, `<article>
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/single-column-large-title/screenshot.jpg" >`],
+[`articles / Title Highlight Header Cover`, `<article>
   <header class="bg-gold sans-serif">
     <div class="mw9 center pa4 pt5-ns ph7-l">
       <time class="f6 mb2 dib ttu tracked"><small>27 July, 2015</small></time>
@@ -422,8 +422,8 @@
   </p>
   </div>
 </article>
-`],
-[`Title Text Image`, `<article class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/title-highlight-header-cover/screenshot.jpg" >`],
+[`articles / Title Text Image`, `<article class="pa3 pa5-ns">
   <h1 class="f2">Title Text with Image</h1>
   <img src="http://tachyons.io/img/space.jpg" class="w-100 f5 measure" alt="Photo of outer space">
   <p class="measure lh-copy">
@@ -439,8 +439,8 @@
     no sea takimata sanctus est Lorem ipsum dolor sit amet.
   </p>
 </article>
-`],
-[`Title Text`, `<article class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/title-text-image/screenshot.jpg" >`],
+[`articles / Title Text`, `<article class="pa3 pa5-ns">
   <h1 class="">Title</h1>
   <p class="measure lh-copy">
     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
@@ -455,48 +455,48 @@
     no sea takimata sanctus est Lorem ipsum dolor sit amet.
   </p>
 </article>
-`],
-[`Circle Border`, `<div class="pa4 tc">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/articles/title-text/screenshot.jpg" >`],
+[`avatars / Circle Border`, `<div class="pa4 tc">
   <img
       src="http://tachyons.io/img/logo.jpg"
       class="br-100 ba h3 w3 dib" alt="avatar">
 </div>
-`],
-[`Circle`, `<div class="pa4 tc">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/avatars/circle-border/screenshot.jpg" >`],
+[`avatars / Circle`, `<div class="pa4 tc">
   <img
       src="http://tachyons.io/img/logo.jpg"
       class="br-100 h3 w3 dib" alt="avatar">
 </div>
-`],
-[`Double Ring`, `<div class="tc pa4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/avatars/circle/screenshot.jpg" >`],
+[`avatars / Double Ring`, `<div class="tc pa4">
   <img src="http://tachyons.io/img/logo.jpg" class="br-100 pa1 ba b--black-10 h3 w3" alt="avatar">
 </div>
-`],
-[`Rounded Large`, `<div class="pa4 tc">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/avatars/double-ring/screenshot.jpg" >`],
+[`avatars / Rounded Large`, `<div class="pa4 tc">
   <img
       src="http://tachyons.io/img/logo.jpg"
       class="br4 h3 w3 dib" alt="avatar">
 </div>
-`],
-[`Rounded Medium`, `<div class="pa4 tc">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/avatars/rounded-large/screenshot.jpg" >`],
+[`avatars / Rounded Medium`, `<div class="pa4 tc">
   <img
       src="http://tachyons.io/img/logo.jpg"
       class="br2 h3 w3 dib" alt="avatar">
 </div>
-`],
-[`Rounded Small`, `<div class="pa4 tc">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/avatars/rounded-medium/screenshot.jpg" >`],
+[`avatars / Rounded Small`, `<div class="pa4 tc">
   <img
       src="http://tachyons.io/img/logo.jpg"
       class="br1 h3 w3 dib" alt="avatar">
 </div>
-`],
-[`Square`, `<div class="pa4 tc">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/avatars/rounded-small/screenshot.jpg" >`],
+[`avatars / Square`, `<div class="pa4 tc">
   <img
       src="http://tachyons.io/img/logo.jpg"
       class="h3 w3 dib" alt="avatar">
 </div>
-`],
-[`Basic`, `<article class="mw7 center ph3 ph5-ns tc br2 pv5 bg-washed-green dark-green mb5">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/avatars/square/screenshot.jpg" >`],
+[`banners / Basic`, `<article class="mw7 center ph3 ph5-ns tc br2 pv5 bg-washed-green dark-green mb5">
   <h1 class="fw6 f3 f2-ns lh-title mt0 mb3">
     This is a tagline. For x.
   </h1>
@@ -518,16 +518,16 @@
     </a>
   </div>
 </article>
-`],
-[`Info`, `<div class="flex items-center justify-center pa4 bg-lightest-blue navy">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/banners/basic/screenshot.jpg" >`],
+[`banners / Info`, `<div class="flex items-center justify-center pa4 bg-lightest-blue navy">
   <svg class="w1" data-icon="info" viewBox="0 0 32 32" style="fill:currentcolor">
     <title>info icon</title>
     <path d="M16 0 A16 16 0 0 1 16 32 A16 16 0 0 1 16 0 M19 15 L13 15 L13 26 L19 26 z M16 6 A3 3 0 0 0 16 12 A3 3 0 0 0 16 6"></path>
   </svg>
   <span class="lh-title ml3">Some info that you want to call attention to.</span>
 </div>
-`],
-[`Single Cta`, `<section class="ph3 ph5-ns pv5">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/banners/info/screenshot.jpg" >`],
+[`banners / Single Cta`, `<section class="ph3 ph5-ns pv5">
   <article class="mw8 center br2 ba b--light-blue bg-lightest-blue">
     <div class="dt-ns dt--fixed-ns w-100">
       <div class="pa3 pa4-ns dtc-ns v-mid">
@@ -544,8 +544,8 @@
     </div>
   </article>
 </section>
-`],
-[`Basic Previous Next`, `<div class="flex items-center justify-center pa4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/banners/single-cta/screenshot.jpg" >`],
+[`buttons / Basic Previous Next`, `<div class="flex items-center justify-center pa4">
   <a href="#0" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box mr4">
       <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
         <title>chevronLeft icon</title>
@@ -561,8 +561,8 @@
     </svg>
   </a>
 </div>
-`],
-[`Basic Rounded Extra Small`, `<div class="ph3">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/buttons/basic-previous-next/screenshot.jpg" >`],
+[`buttons / Basic Rounded Extra Small`, `<div class="ph3">
   <h1 class="f6 fw6 ttu tracked">Basic button</h1>
   <a class="f6 link dim br1 ph3 pv2 mb2 dib white bg-black" href="#0">Button Text</a>
   <a class="f6 link dim br1 ph3 pv2 mb2 dib white bg-near-black" href="#0">Button Text</a>
@@ -636,8 +636,8 @@
   <a class="f6 link dim br1 ba bw2 ph3 pv2 mb2 dib dark-blue" href="#0">Button Text</a>
   <a class="f6 link dim br1 ba bw2 ph3 pv2 mb2 dib dark-green" href="#0">Button Text</a>
 </div>
-`],
-[`Basic Rounded Small`, `<div class="ph3">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/buttons/basic-rounded-extra-small/screenshot.jpg" >`],
+[`buttons / Basic Rounded Small`, `<div class="ph3">
   <h1 class="f6 fw6 ttu tracked">Basic button</h1>
   <a class="f6 link dim br2 ph3 pv2 mb2 dib white bg-black" href="#0">Button Text</a>
   <a class="f6 link dim br2 ph3 pv2 mb2 dib white bg-near-black" href="#0">Button Text</a>
@@ -711,8 +711,8 @@
   <a class="f6 link dim br2 ba bw2 ph3 pv2 mb2 dib dark-blue" href="#0">Button Text</a>
   <a class="f6 link dim br2 ba bw2 ph3 pv2 mb2 dib dark-green" href="#0">Button Text</a>
 </div>
-`],
-[`Basic Rounded`, `<div class="ph3">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/buttons/basic-rounded-small/screenshot.jpg" >`],
+[`buttons / Basic Rounded`, `<div class="ph3">
   <h1 class="f6 fw6 ttu tracked">Basic button</h1>
   <a class="f6 link dim br3 ph3 pv2 mb2 dib white bg-black" href="#0">Button Text</a>
   <a class="f6 link dim br3 ph3 pv2 mb2 dib white bg-near-black" href="#0">Button Text</a>
@@ -786,8 +786,8 @@
   <a class="f6 link dim br3 ba bw2 ph3 pv2 mb2 dib dark-blue" href="#0">Button Text</a>
   <a class="f6 link dim br3 ba bw2 ph3 pv2 mb2 dib dark-green" href="#0">Button Text</a>
 </div>
-`],
-[`Basic`, `<div class="ph3">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/buttons/basic-rounded/screenshot.jpg" >`],
+[`buttons / Basic`, `<div class="ph3">
   <h1 class="f6 fw6 ttu tracked">Basic button</h1>
   <a class="f6 link dim ph3 pv2 mb2 dib white bg-black" href="#0">Button Text</a>
   <a class="f6 link dim ph3 pv2 mb2 dib white bg-near-black" href="#0">Button Text</a>
@@ -861,8 +861,8 @@
   <a class="f6 link dim ba bw2 ph3 pv2 mb2 dib dark-blue" href="#0">Button Text</a>
   <a class="f6 link dim ba bw2 ph3 pv2 mb2 dib dark-green" href="#0">Button Text</a>
 </div>
-`],
-[`Centered Icons`, `<!-- SVG Icons are from https://simpleicons.org -->
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/buttons/basic/screenshot.jpg" >`],
+[`buttons / Centered Icons`, `<!-- SVG Icons are from https://simpleicons.org -->
 <footer class="pv4 ph2 tc-l">
   <a class="no-underline near-white bg-animate bg-near-black hover-bg-gray inline-flex items-center ma2 tc br2 pa2" href="https://facebook.com" title="Facebook">
     <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg>
@@ -901,8 +901,8 @@
     <span class="f6 ml3 pr2">Code Pen</span>
   </a>
 </footer>
-`],
-[`Pill Grow`, `<div class="ph3">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/buttons/centered-icons/screenshot.jpg" >`],
+[`buttons / Pill Grow`, `<div class="ph3">
   <h1 class="f6 fw6 ttu tracked">Basic pill</h1>
   <a class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-black" href="#0">Button Text</a>
   <a class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-near-black" href="#0">Button Text</a>
@@ -976,8 +976,8 @@
   <a class="f6 grow no-underline br-pill ba bw2 ph3 pv2 mb2 dib dark-blue" href="#0">Button Text</a>
   <a class="f6 grow no-underline br-pill ba bw2 ph3 pv2 mb2 dib dark-green" href="#0">Button Text</a>
 </div>
-`],
-[`Pill`, `<div class="ph3">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/buttons/pill-grow/screenshot.jpg" >`],
+[`buttons / Pill`, `<div class="ph3">
   <h1 class="f6 fw6 ttu tracked">Basic pill</h1>
   <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-black" href="#0">Button Text</a>
   <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-near-black" href="#0">Button Text</a>
@@ -1051,8 +1051,8 @@
   <a class="f6 link dim br-pill ba bw2 ph3 pv2 mb2 dib dark-blue" href="#0">Button Text</a>
   <a class="f6 link dim br-pill ba bw2 ph3 pv2 mb2 dib dark-green" href="#0">Button Text</a>
 </div>
-`],
-[`Album Centered`, `<a class="db center mw5 tc black link dim"
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/buttons/pill/screenshot.jpg" >`],
+[`cards / Album Centered`, `<a class="db center mw5 tc black link dim"
    title="Frank Ocean's Blonde on Apple Music"
    href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
 
@@ -1068,8 +1068,8 @@
     <dd class="ml0 gray">Frank Ocean</dd>
   </dl>
 </a>
-`],
-[`Album Left`, `<a class="db center mw5 black link dim"
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/album-centered/screenshot.jpg" >`],
+[`cards / Album Left`, `<a class="db center mw5 black link dim"
    title="Frank Ocean's Blonde on Apple Music"
    href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music">
 
@@ -1085,8 +1085,8 @@
     <dd class="ml0 gray">Frank Ocean</dd>
   </dl>
 </a>
-`],
-[`Basic Text Card`, `<article class="center mw5 mw6-ns hidden ba mv4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/album-left/screenshot.jpg" >`],
+[`cards / Basic Text Card`, `<article class="center mw5 mw6-ns hidden ba mv4">
   <h1 class="f4 bg-near-black white mv0 pv2 ph3">Title of card</h1>
   <div class="pa3 bt">
     <p class="f6 f5-ns lh-copy measure mv0">
@@ -1096,8 +1096,8 @@
     </p>
   </div>
 </article>
-`],
-[`News Card`, `<article class="bg-white center mw5 ba b--black-10 mv4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/basic-text-card/screenshot.jpg" >`],
+[`cards / News Card`, `<article class="bg-white center mw5 ba b--black-10 mv4">
   <div class="pv2 ph3">
      <h1 class="f6 ttu tracked">Daily News Co.</h1>
   </div>
@@ -1107,8 +1107,8 @@
     <small class="gray db pv2">AMP - <time>6 hours ago</time></small>
   </div>
 </article>
-`],
-[`Product Card`, `<article class="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/news-card/screenshot.jpg" >`],
+[`cards / Product Card`, `<article class="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
   <img src="http://placekitten.com/g/600/300" class="db w-100 br2 br--top" alt="Photo of a kitten looking menacing.">
   <div class="pa2 ph3-ns pb3-ns">
     <div class="dt w-100 mt1">
@@ -1125,16 +1125,16 @@
     </p>
   </div>
 </article>
-`],
-[`Profile Card Title Subtitle`, `<article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/product-card/screenshot.jpg" >`],
+[`cards / Profile Card Title Subtitle`, `<article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
   <div class="tc">
     <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h4 w4 dib ba b--black-05 pa2" title="Photo of a kitty staring at you">
     <h1 class="f3 mb2">Mimi W.</h1>
     <h2 class="f5 fw4 gray mt0">CCO (Chief Cat Officer)</h2>
   </div>
 </article>
-`],
-[`Profile Card`, `<article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/profile-card-title-subtitle/screenshot.jpg" >`],
+[`cards / Profile Card`, `<article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
   <div class="tc">
     <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
     <h1 class="f4">Mimi Whitehouse</h1>
@@ -1146,8 +1146,8 @@
     roll around on the floor waiting for you give her more of them.
   </p>
 </article>
-`],
-[`Suggested Profile`, `<section class="tc pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/profile-card/screenshot.jpg" >`],
+[`cards / Suggested Profile`, `<section class="tc pa3 pa5-ns">
   <article class="hide-child relative ba b--black-20 mw5 center">
     <img src="https://scontent.flhr3-1.fna.fbcdn.net/v/t1.0-1/p320x320/10419949_10105372167674736_5929675618317299881_n.jpg?oh=fa3bbf4311e61e4637b67ef3be89479f&oe=58C28705" class="db" alt="Photo of Jesse Grant" />
     <div class="pa2 bt b--black-20">
@@ -1158,8 +1158,8 @@
     <a class="child absolute top-1 right-1 ba bw1 black-40 grow no-underline br-100 w1 h1 pa2 lh-solid b" href="#">×</a>
   </article>
 </section>
-`],
-[`Text Card`, `<article class="center mw5 mw6-ns br3 hidden ba b--black-10 mv4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/suggested-profile/screenshot.jpg" >`],
+[`cards / Text Card`, `<article class="center mw5 mw6-ns br3 hidden ba b--black-10 mv4">
   <h1 class="f4 bg-near-white br3 br--top black-60 mv0 pv2 ph3">Title of card</h1>
   <div class="pa3 bt b--black-10">
     <p class="f6 f5-ns lh-copy measure">
@@ -1169,8 +1169,8 @@
     </p>
   </div>
 </article>
-`],
-[`Albums`, `<article>
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/cards/text-card/screenshot.jpg" >`],
+[`collections / Albums`, `<article>
   <h2 class="f3 fw4 pa3 mv0">Albums</h2>
   <div class="cf pa2">
     <div class="fl w-50 w-25-m w-20-l pa2">
@@ -1285,8 +1285,8 @@
     </div>
   </div>
 </article>
-`],
-[`Movies`, `<article>
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/collections/albums/screenshot.jpg" >`],
+[`collections / Movies`, `<article>
   <a href="https://geo.itunes.apple.com/us/movie/primer/id536457427?at=1l3vqFJ&ct=1l3vqFJ&mt=6" class="fl w-50 w-25-l link overflow-hidden">
     <div role="img" aria-label="Primer movie" class="grow aspect-ratio--4x6 " style="background: url(https://s3-us-west-1.amazonaws.com/tachyonsio/img/primer.jpg) no-repeat center center; background-size: cover;"></div>
   </a>
@@ -1361,8 +1361,8 @@
     <div role="img" aria-label="Batman Begins movie" class="grow aspect-ratio--4x6 " style="background: url(https://s3-us-west-1.amazonaws.com/tachyonsio/img/batman-begins.jpg) no-repeat center center; background-size: cover;"></div>
   </a>
 </article>
-`],
-[`Posters Dim`, `<main class="cf bg-black w-100 ph3 pt3 pb3">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/collections/movies/screenshot.jpg" >`],
+[`collections / Posters Dim`, `<main class="cf bg-black w-100 ph3 pt3 pb3">
     <a class="link dim pa3 fl w-50 w-third-m w-25-l border-box" href="https://itunes.apple.com/us/movie/donnie-darko/id324481759?at=1l3vqFJ&mt=6" title="donnie-darko">
         <div class="aspect-ratio aspect-ratio--5x8">
             <div class="aspect-ratio--object cover bg-center" style="background-image:url(http://tachyons.io/img/donniedarko-alt.jpg);"></div>
@@ -1393,9 +1393,9 @@
             <div class="aspect-ratio--object cover bg-center" style="background-image:url(http://tachyons.io/img/addamsfamilyvalues.jpg);"></div>
         </div>
     </a>
-    <a
-        class="link dim pa3 fl w-50 w-third-m w-25-l border-box"
-        href="https://itunes.apple.com/us/movie/hocus-pocus/id329144864?at=1l3vqFJ&mt=6"
+    <a 
+        class="link dim pa3 fl w-50 w-third-m w-25-l border-box" 
+        href="https://itunes.apple.com/us/movie/hocus-pocus/id329144864?at=1l3vqFJ&mt=6" 
         title="hocus-pocus">
         <div class="aspect-ratio aspect-ratio--5x8">
             <div class="aspect-ratio--object cover bg-center" style="background-image:url(http://tachyons.io/img/hocuspocus.jpg);">
@@ -1533,8 +1533,8 @@
         </div>
     </a>
 </main>
-`],
-[`Posters`, `<main class="cf pa2">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/collections/posters-dim/screenshot.jpg" >`],
+[`collections / Posters`, `<main class="cf pa2">
     <div class="fl w-100 w-50-ns ph2">
       <a href="" class="pv2 grow db no-underline black"><img class="db w-100" src="https://s3-us-west-2.amazonaws.com/prnt/elevaters030211_960.jpg"></a>
       <a href="" class="no-underline pv2 grow db"><img class="db w-100" src="https://s3-us-west-2.amazonaws.com/prnt/elevaters.jpg"></a>
@@ -1561,11 +1561,11 @@
       <a href="" class="pv2 grow db no-underline black"><img class="db w-100" src="https://s3-us-west-2.amazonaws.com/prnt/adam-stern-191110_960.jpg"></a>
     </div>
 </main>
-`],
-[`Square Title Subtitle`, `<section class="cf w-100 pa2-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/collections/posters/screenshot.jpg" >`],
+[`collections / Square Title Subtitle`, `<section class="cf w-100 pa2-ns">
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0006.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1575,7 +1575,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0002.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0002.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1585,7 +1585,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0003.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0003.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1595,7 +1595,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0004.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0004.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1605,7 +1605,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0007.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0007.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1615,7 +1615,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0008.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0008.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1625,7 +1625,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0009.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0009.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1635,7 +1635,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0010.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0010.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1645,7 +1645,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0011.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0011.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1655,7 +1655,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0012.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0012.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1665,7 +1665,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0013.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0013.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1675,7 +1675,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0014.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0014.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1685,7 +1685,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0015.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0015.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1695,7 +1695,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0016.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0016.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1705,7 +1705,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0017.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0017.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1715,7 +1715,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0018.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0018.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1725,7 +1725,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0019.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0019.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1735,7 +1735,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0020.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0020.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1745,7 +1745,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0021.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0021.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1755,7 +1755,7 @@
   </article>
   <article class="fl w-100 w-50-m  w-25-ns pa2-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
-      <img style="background-image:url(http://mrmrs.github.io/images/0022.jpg);"
+      <img style="background-image:url(http://mrmrs.github.io/images/0022.jpg);" 
       class="db bg-center cover aspect-ratio--object" />
     </div>
     <a href="#0" class="ph2 ph0-ns pb3 link db">
@@ -1764,8 +1764,8 @@
     </a>
   </article>
 </section>
-`],
-[`Vinyl`, `<article class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/collections/square-title-subtitle/screenshot.jpg" >`],
+[`collections / Vinyl`, `<article class="cf">
   <div class="fl w-50 w-25-ns">
     <a href="https://www.amazon.com/BEYONCÉ-Beyonce/dp/B00KCOMBJC/ref=sr_1_2_twi_lp__3?s=music&ie=UTF8&qid=1480422067&sr=1-2&keywords=beyonce&tag=mrmrs01-20" class="db aspect-ratio aspect-ratio--1x1 dim">
       <span role="img" aria-label="Beyoncé" style="background-image:url(http://mrmrs.github.io/photos/beyonce.jpg);" class="bg-center cover aspect-ratio--object"></span>
@@ -1854,8 +1854,8 @@
     </a>
   </div>
 </article>
-`],
-[`Inline`, `<div class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/collections/vinyl/screenshot.jpg" >`],
+[`definition-lists / Inline`, `<div class="pa3 pa5-ns">
   <h4 class="f6 fw6">Glossary</h4>
   <dl class="f6 lh-title mv2">
     <dt class="dib b">W:</dt>
@@ -1886,8 +1886,8 @@
     <dd class="dib ml0 gray">Division Record</dd>
   </dl>
 </div>
-`],
-[`Simple`, `<dl class="lh-title pa4 mt0">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/definition-lists/inline/screenshot.jpg" >`],
+[`definition-lists / Simple`, `<dl class="lh-title pa4 mt0">
   <dt class="f6 b">Favorite Song</dt>
   <dd class="ml0">Devil Got My Woman - Skip James</dd>
   <dt class="f6 b mt2">Favorite Movie</dt>
@@ -1901,8 +1901,8 @@
   <dt class="f6 b mt2">Favorite Hobby</dt>
   <dd class="ml0">Eating Cheese Pizza</dd>
 </dl>
-`],
-[`404`, `<section class="vh-100 bg-washed-blue baskerville">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/definition-lists/simple/screenshot.jpg" >`],
+[`error-pages / 404`, `<section class="vh-100 bg-washed-blue baskerville">
   <header class="tc ph5 lh-copy">
       <h1 class="f1 f-headline-l code mb3 fw9 dib tracked-tight light-purple">404</h1>
       <h2 class="tc f1-l fw1">Sorry, we can't find the page you are looking for.</h2>
@@ -1917,8 +1917,8 @@
     <li class="dib"><a class="f5 f4-ns link black db pv2 ph3 hover-light-purple" href="/help">Help</a></li>
   </ul>
 </section>
-`],
-[`Centered Icons Hover Glow`, `<!-- SVG Icons are from https://simpleicons.org -->
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/error-pages/404/screenshot.jpg" >`],
+[`footers / Centered Icons Hover Glow`, `<!-- SVG Icons are from https://simpleicons.org -->
 <footer style="background-image:url(http://i.giphy.com/5lF3pQpdquCBy.gif);" class="tc-l bg-center cover bg-black">
   <div class="w-100 ph3 pv5 bg-black-80">
     <a class="link white-60 bg-transparent hover-white inline-flex items-center ma2 tc br2 pa2" href="https://facebook.com" title="Facebook">
@@ -1959,16 +1959,16 @@
     </a>
   </div>
 </footer>
-`],
-[`Inline Text`, `<footer class="bg-near-black white-80 pv5 pv6-l ph4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/centered-icons-hover-glow/screenshot.jpg" >`],
+[`footers / Inline Text`, `<footer class="bg-near-black white-80 pv5 pv6-l ph4">
   <p class="f6"><span class="dib mr4 mr5-ns">©2048 Your Company LLC, Inc.</span>
     <a class="link white-80 hover-light-purple" href="/terms">Terms</a> /
     <a class="link white-80 hover-gold" href="/privacy"> Privacy </a> /
     <a class="link white-80 hover-green" href="#">hi@yourcompany.com </a>
   </p>
 </footer>
-`],
-[`Simple Large Type`, `<footer class="ph3 ph4-ns pv6 bt b--black-10 black-70">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/inline-text/screenshot.jpg" >`],
+[`footers / Simple Large Type`, `<footer class="ph3 ph4-ns pv6 bt b--black-10 black-70">
   <a href="mailto:" class="link b f3 f2-ns dim black-70 lh-solid">hello@email.com</a>
   <p class="f6 db b ttu lh-solid">© 2016 COMPANY Inc.</p>
   <div class="mt5">
@@ -1977,8 +1977,8 @@
     <a href="/privacy/"  title="Privacy" class="f6 dib pl2 mid-gray dim">Privacy</a>
   </div>
 </footer>
-`],
-[`Small Print`, `<footer class="pv4 ph3 ph5-m ph6-l mid-gray">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/simple-large-type/screenshot.jpg" >`],
+[`footers / Small Print`, `<footer class="pv4 ph3 ph5-m ph6-l mid-gray">
   <small class="f6 db tc">© 2016 <b class="ttu">SOME COMPANY Inc</b>., All Rights Reserved</small>
   <div class="tc mt3">
     <a href="/language/" title="Language" class="f6 dib ph2 link mid-gray dim">Language</a>
@@ -1986,8 +1986,8 @@
     <a href="/privacy/"  title="Privacy" class="f6 dib ph2 link mid-gray dim">Privacy</a>
   </div>
 </footer>
-`],
-[`Social Circles`, `<footer class="pv4 ph3 ph5-ns tc">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/small-print/screenshot.jpg" >`],
+[`footers / Social Circles`, `<footer class="pv4 ph3 ph5-ns tc">
   <a class="link dim gray dib h2 w2 br-100 mr3 pa2 bg-near-white ba b--black-10" href="#" title="">
     <svg data-icon="facebook" viewBox="0 0 32 32" style="fill:currentcolor">
       <title>facebook icon</title>
@@ -2013,8 +2013,8 @@
     </svg>
   </a>
 </footer>
-`],
-[`Social Simple Text`, `<!-- SVG Icons are from https://simpleicons.org -->
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/social-circles/screenshot.jpg" >`],
+[`footers / Social Simple Text`, `<!-- SVG Icons are from https://simpleicons.org -->
 <footer class="pv4 ph3 tc">
   <a class="link near-black hover-silver dib mh3 tc" href="https://facebook.com" title="Facebook">
     <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg>
@@ -2065,8 +2065,8 @@
     <span class="f6 db">Code Pen</span>
   </a>
 </footer>
-`],
-[`Social Simple`, `<!-- SVG Icons are from https://simpleicons.org -->
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/social-simple-text/screenshot.jpg" >`],
+[`footers / Social Simple`, `<!-- SVG Icons are from https://simpleicons.org -->
 <footer class="pv4 ph3 ph5-ns tc">
   <a class="link near-black hover-silver dib h2 w2 mr3" href="https://facebook.com title="Facebook">
     <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg>
@@ -2105,8 +2105,8 @@
     <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.988 5.443c-.004-.02-.007-.04-.012-.058l-.01-.033c-.006-.017-.012-.034-.02-.05-.003-.012-.01-.023-.014-.034l-.023-.045-.02-.032-.03-.04-.024-.03c-.01-.013-.022-.026-.034-.038l-.027-.027-.04-.032-.03-.024-.012-.01L8.38.117c-.23-.155-.53-.155-.76 0L.305 4.99.296 5c-.012.007-.022.015-.032.023-.014.01-.027.02-.04.032l-.027.027-.034.037-.024.03-.03.04c-.006.012-.013.022-.02.033l-.023.045-.015.034c-.007.016-.012.033-.018.05l-.01.032c-.005.02-.01.038-.012.058l-.006.03C.002 5.5 0 5.53 0 5.56v4.875c0 .03.002.06.006.09l.007.03c.003.02.006.04.013.058l.01.033c.006.018.01.035.018.05l.015.033c.006.016.014.03.023.047l.02.03c.008.016.018.03.03.042.007.01.014.02.023.03.01.012.02.025.034.036.01.01.018.02.028.026l.04.033.03.023.01.01 7.31 4.876c.116.078.248.117.382.116.134 0 .266-.04.38-.116l7.314-4.875.01-.01c.012-.007.022-.015.032-.023.014-.01.027-.02.04-.032l.027-.027.034-.037.024-.03.03-.04.02-.032.023-.046.015-.033.018-.052.01-.033c.005-.02.01-.038.013-.058 0-.01.003-.02.004-.03.004-.03.006-.06.006-.09V5.564c0-.03-.002-.06-.006-.09l-.007-.03zM8 9.626L5.568 8 8 6.374 10.432 8 8 9.626zM7.312 5.18l-2.98 1.993-2.406-1.61 5.386-3.59v3.206zM3.095 8l-1.72 1.15v-2.3L3.095 8zm1.237.828l2.98 1.993v3.208l-5.386-3.59 2.406-1.61zm4.355 1.993l2.98-1.993 2.407 1.61-5.387 3.59v-3.206zM12.905 8l1.72-1.15v2.3L12.905 8zm-1.237-.827L8.688 5.18V1.97l5.386 3.59-2.406 1.61z" fill-rule="nonzero"/></svg>
   </a>
 </footer>
-`],
-[`Social Text`, `<!-- SVG Icons are from https://simpleicons.org -->
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/social-simple/screenshot.jpg" >`],
+[`footers / Social Text`, `<!-- SVG Icons are from https://simpleicons.org -->
 <footer class="pv4 ph3 tc">
   <a class="link near-black hover-silver dib mh3 tc" href="https://facebook.com" title="Facebook">
     <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg>
@@ -2158,8 +2158,8 @@
   </a>
 </footer>
 
-`],
-[`Social`, `<footer class="pv4 ph3 ph5-ns tc">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/social-text/screenshot.jpg" >`],
+[`footers / Social`, `<footer class="pv4 ph3 ph5-ns tc">
   <a class="link dim gray dib h2 w2 br-100 mr3 " href="#" title="">
     <svg data-icon="facebook" viewBox="0 0 32 32" style="fill:currentcolor">
       <title>facebook icon</title>
@@ -2191,8 +2191,8 @@
     <a href="#" class="f6 link dim gray dib">Terms</a>
   </div>
 </footer>
-`],
-[`Studios`, `<footer class="pa4 pa5-l black-70 bt b--black-10">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/social/screenshot.jpg" >`],
+[`footers / Studios`, `<footer class="pa4 pa5-l black-70 bt b--black-10">
   <div class="mb4-l cf">
     <h1 class="fl w-100 pv0 f6 fw6 ttu tracked mb4">Studios</h1>
     <article class="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pr2 pr0-ns">
@@ -2306,8 +2306,8 @@
     </p>
   </div>
 </footer>
-`],
-[`Checkbox List`, `<form class="pa4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/footers/studios/screenshot.jpg" >`],
+[`forms / Checkbox List`, `<form class="pa4">
   <fieldset id="favorite_movies" class="bn">
     <legend class="fw7 mb2">Favorite Movies</legend>
     <div class="flex items-center mb2">
@@ -2340,16 +2340,16 @@
     </div>
   </fieldset>
 </form>
-`],
-[`Input Text Label`, `<form class="pa4 black-80">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/forms/checkbox-list/screenshot.jpg" >`],
+[`forms / Input Text Label`, `<form class="pa4 black-80">
   <div class="measure">
     <label for="name" class="f6 b db mb2">Name <span class="normal black-60">(optional)</span></label>
     <input id="name" class="input-reset ba b--black-20 pa2 mb2 db w-100" type="text" aria-describedby="name-desc">
     <small id="name-desc" class="f6 black-60 db mb2">Helper text for the form control.</small>
   </div>
 </form>
-`],
-[`Newsletter Subscription`, `<div class="pa4-l">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/forms/input-text-label/screenshot.jpg" >`],
+[`forms / Newsletter Subscription`, `<div class="pa4-l">
   <form class="bg-light-red mw7 center pa4 br2-ns ba b--black-10">
     <fieldset class="cf bn ma0 pa0">
       <legend class="pa0 f5 f4-ns mb3 black-80">Sign up for our newsletter</legend>
@@ -2361,8 +2361,8 @@
     </fieldset>
   </form>
 </div>
-`],
-[`Password`, `<form class="pa4 black-80">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/forms/newsletter-subscription/screenshot.jpg" >`],
+[`forms / Password`, `<form class="pa4 black-80">
   <div class="measure-narrow">
     <label for="password" class="f6 b db mb2">Password</label>
     <input class="input-reset ba b--black-20 pa2 mb2 db w-100" type="password" id="password" aria-describedby="password-desc">
@@ -2372,8 +2372,8 @@
     </small>
   </div>
 </form>
-`],
-[`Sign In`, `<main class="pa4 black-80">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/forms/password/screenshot.jpg" >`],
+[`forms / Sign In`, `<main class="pa4 black-80">
   <form class="measure center">
     <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
       <legend class="f4 fw6 ph0 mh0">Sign In</legend>
@@ -2396,8 +2396,8 @@
     </div>
   </form>
 </main>
-`],
-[`Sign Up`, `<article class="pa4 black-80">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/forms/sign-in/screenshot.jpg" >`],
+[`forms / Sign Up`, `<article class="pa4 black-80">
   <form action="sign-up_submit" method="get" accept-charset="utf-8">
     <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
       <legend class="ph0 mh0 fw6 clip">Sign Up</legend>
@@ -2413,44 +2413,44 @@
     <div class="mt3"><input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6" type="submit" value="Sign Up"></div>
   </form>
 </article>
-`],
-[`Textarea Label`, `<form class="pa4 black-80">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/forms/sign-up/screenshot.jpg" >`],
+[`forms / Textarea Label`, `<form class="pa4 black-80">
   <div>
     <label for="comment" class="f6 b db mb2">Comments <span class="normal black-60">(optional)</span></label>
     <textarea id="comment" name="comment" class="db border-box hover-black w-100 measure ba b--black-20 pa2 br2 mb2" aria-describedby="comment-desc"></textarea>
     <small id="comment-desc" class="f6 black-60">Helper text for a form control. Can use this text to <a href="#" class="link underline black-80 hover-blue">link to more info.</a></small>
   </div>
 </form>
-`],
-[`Circle Avatar Title Subtitle`, `<header class="tc pv4 pv5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/forms/textarea-label/screenshot.jpg" >`],
+[`headers / Circle Avatar Title Subtitle`, `<header class="tc pv4 pv5-ns">
   <img src="http://tachyons.io/img/logo.jpg" class="br-100 pa1 ba b--black-10 h3 w3" alt="avatar">
   <h1 class="f5 f4-ns fw6 mid-gray">Jasper Whitehouse</h1>
   <h2 class="f6 gray fw2 ttu tracked">Los Angeles</h2>
 </header>
-`],
-[`Rounded Avatar Title Subtitle`, `<header class="tc pv4 pv5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/headers/circle-avatar-title-subtitle/screenshot.jpg" >`],
+[`headers / Rounded Avatar Title Subtitle`, `<header class="tc pv4 pv5-ns">
   <img src="http://tachyons.io/img/logo.jpg" class="br3 ba b--black-10 h3 w3" alt="avatar">
   <h1 class="f5 f4-ns fw6 black-70">Jasper Whitehouse</h1>
   <h2 class="f6 black-70 fw2 ttu tracked">Los Angeles</h2>
 </header>
-`],
-[`Startup Hero`, `<header class="sans-serif">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/headers/rounded-avatar-title-subtitle/screenshot.jpg" >`],
+[`headers / Startup Hero`, `<header class="sans-serif">
   <div class="cover bg-left bg-center-l" style="background-image: url(http://mrmrs.github.io/photos/u/011.jpg)">
     <div class="bg-black-80 pb5 pb6-m pb7-l">
-      <nav class="dt w-100 mw8 center">
+      <nav class="dt w-100 mw8 center"> 
         <div class="dtc w2 v-mid pa3">
           <a href="/" class="dib w2 h2 pa1 ba b--white-90 grow-large border-box">
             <svg class="link white-90 hover-white" data-icon="skull" viewBox="0 0 32 32" style="fill:currentcolor"><title>skull icon</title><path d="M16 0 C6 0 2 4 2 14 L2 22 L6 24 L6 30 L26 30 L26 24 L30 22 L30 14 C30 4 26 0 16 0 M9 12 A4.5 4.5 0 0 1 9 21 A4.5 4.5 0 0 1 9 12 M23 12 A4.5 4.5 0 0 1 23 21 A4.5 4.5 0 0 1 23 12"></path></svg>
           </a>
         </div>
         <div class="dtc v-mid tr pa3">
-          <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >How it Works</a>
-          <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >Pricing</a>
-          <a class="f6 fw4 hover-white no-underline white-70 dn dib-l pv2 ph3" href="/" >About</a>
-          <a class="f6 fw4 hover-white no-underline white-70 dn dib-l pv2 ph3" href="/" >Careers</a>
-          <a class="f6 fw4 hover-white no-underline white-70 dib ml2 pv2 ph3 ba" href="/" >Sign Up</a>
+          <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >How it Works</a> 
+          <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/" >Pricing</a> 
+          <a class="f6 fw4 hover-white no-underline white-70 dn dib-l pv2 ph3" href="/" >About</a> 
+          <a class="f6 fw4 hover-white no-underline white-70 dn dib-l pv2 ph3" href="/" >Careers</a> 
+          <a class="f6 fw4 hover-white no-underline white-70 dib ml2 pv2 ph3 ba" href="/" >Sign Up</a> 
         </div>
-      </nav>
+      </nav> 
       <div class="tc-l mt4 mt5-m mt6-l ph3">
         <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">This is your super impressive headline</h1>
         <h2 class="fw1 f3 white-80 mt3 mb4">Now a subheadline where explain your wonderful new startup even more</h2>
@@ -2459,84 +2459,84 @@
         <a class="f6 no-underline grow dib v-mid white ba b--white ph3 pv2 mb3" href="">Secondary call to action</a>
       </div>
     </div>
-  </div>
+  </div> 
 </header>
-`],
-[`Aspect Ratio 16x9`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/headers/startup-hero/screenshot.jpg" >`],
+[`layout / Aspect Ratio 16x9`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--16x9 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 1x1`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-16x9/screenshot.jpg" >`],
+[`layout / Aspect Ratio 1x1`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--1x1 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 3x4`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-1x1/screenshot.jpg" >`],
+[`layout / Aspect Ratio 3x4`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--3x4 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 4x3`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-3x4/screenshot.jpg" >`],
+[`layout / Aspect Ratio 4x3`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--4x3 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 4x6`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-4x3/screenshot.jpg" >`],
+[`layout / Aspect Ratio 4x6`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--4x6 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 5x7`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-4x6/screenshot.jpg" >`],
+[`layout / Aspect Ratio 5x7`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--5x7 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 5x8`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-5x7/screenshot.jpg" >`],
+[`layout / Aspect Ratio 5x8`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--5x8 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 6x4`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-5x8/screenshot.jpg" >`],
+[`layout / Aspect Ratio 6x4`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--6x4 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 7x5`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-6x4/screenshot.jpg" >`],
+[`layout / Aspect Ratio 7x5`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--7x5 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 8x5`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-7x5/screenshot.jpg" >`],
+[`layout / Aspect Ratio 8x5`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--8x5 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Aspect Ratio 9x16`, `<article class="mw5 mw6-ns center pt4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-8x5/screenshot.jpg" >`],
+[`layout / Aspect Ratio 9x16`, `<article class="mw5 mw6-ns center pt4">
   <div class="aspect-ratio aspect-ratio--9x16 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Centered Container`, `<section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/aspect-ratio-9x16/screenshot.jpg" >`],
+[`layout / Centered Container`, `<section class="mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
   <h1 class="mt0">Centered Container</h1>
   <p class="lh-copy measure">
     Combine width or max-width values with the center class to create a centered
     container for your content.
   </p>
 </section>
-`],
-[`Five Column Collapse Alternate`, `<div class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/centered-container/screenshot.jpg" >`],
+[`layout / Five Column Collapse Alternate`, `<div class="cf">
   <div class="fl w-50 w-20-ns tc pv5 bg-black-05">
     1
   </div>
@@ -2553,8 +2553,8 @@
     5
   </div>
 </div>
-`],
-[`Five Column Collapse Asymmetrical`, `<div class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/five-column-collapse-alternate/screenshot.jpg" >`],
+[`layout / Five Column Collapse Asymmetrical`, `<div class="cf">
   <div class="fl w-100 w-20-l tc pv5 bg-black-20">
     1
   </div>
@@ -2571,8 +2571,8 @@
     5
   </div>
 </div>
-`],
-[`Five Column Collapse Mixed`, `<div class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/five-column-collapse-asymmetrical/screenshot.jpg" >`],
+[`layout / Five Column Collapse Mixed`, `<div class="cf">
   <div class="fl w-100 w-20-ns tc pv5 bg-black-20">
     1
   </div>
@@ -2589,8 +2589,8 @@
     5
   </div>
 </div>
-`],
-[`Five Column Collapse One`, `<div class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/five-column-collapse-mixed/screenshot.jpg" >`],
+[`layout / Five Column Collapse One`, `<div class="cf">
   <div class="fl w-100 w-20-ns tc pv5 bg-black-05">
     1
   </div>
@@ -2607,8 +2607,8 @@
     5
   </div>
 </div>
-`],
-[`Five Column`, `<div class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/five-column-collapse-one/screenshot.jpg" >`],
+[`layout / Five Column`, `<div class="cf">
   <div class="fl w-20 tc pv5 bg-black-05">
     1
   </div>
@@ -2625,8 +2625,8 @@
     5
   </div>
 </div>
-`],
-[`Fixed Table Layout Grid Mixed Rows`, `<div class="dt dt--fixed">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/five-column/screenshot.jpg" >`],
+[`layout / Fixed Table Layout Grid Mixed Rows`, `<div class="dt dt--fixed">
   <div class="dt-row">
     <div class="dtc tc pv4 bg-black-10">
       1
@@ -2688,8 +2688,8 @@
     </div>
   </div>
 </div>
-`],
-[`Fixed Table Layout Grid`, `<div class="dt dt--fixed">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/fixed-table-layout-grid-mixed-rows/screenshot.jpg" >`],
+[`layout / Fixed Table Layout Grid`, `<div class="dt dt--fixed">
   <div class="dtc tc pv4 bg-black-10">
     1
   </div>
@@ -2749,8 +2749,8 @@
     6
   </div>
 </div>
-`],
-[`Flag Object Bottom`, `<div class="dt mw6 center pv4 pv5-m pv6-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/fixed-table-layout-grid/screenshot.jpg" >`],
+[`layout / Flag Object Bottom`, `<div class="dt mw6 center pv4 pv5-m pv6-ns">
   <div class="dtc v-btm">
     <img src="http://tachyons.io/img/super-wide.jpg" alt="A bright blue sky" class="mw5 db" />
   </div>
@@ -2760,8 +2760,8 @@
     </p>
   </div>
 </div>
-`],
-[`Flag Object Collapse`, `<div class="dt mw6 center pt0 pb5 pv5-m pv6-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/flag-object-bottom/screenshot.jpg" >`],
+[`layout / Flag Object Collapse`, `<div class="dt mw6 center pt0 pb5 pv5-m pv6-ns">
   <div class="db dtc-ns v-mid-ns">
     <img src="http://tachyons.io/img/super-wide.jpg" alt="A bright blue sky" class="w-100 mw7 w5-ns" />
   </div>
@@ -2772,8 +2772,8 @@
     </p>
   </div>
 </div>
-`],
-[`Flag Object Top`, `<div class="dt mw6 center pv4 pv5-m pv6-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/flag-object-collapse/screenshot.jpg" >`],
+[`layout / Flag Object Top`, `<div class="dt mw6 center pv4 pv5-m pv6-ns">
   <div class="dtc v-top">
     <img src="http://tachyons.io/img/super-wide.jpg" alt="A bright blue sky" class="mw5 db" />
   </div>
@@ -2784,8 +2784,8 @@
     </p>
   </div>
 </div>
-`],
-[`Flag Object`, `<div class="dt mw6 center pv4 pv5-m pv6-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/flag-object-top/screenshot.jpg" >`],
+[`layout / Flag Object`, `<div class="dt mw6 center pv4 pv5-m pv6-ns">
   <div class="dtc v-mid">
     <img src="http://tachyons.io/img/super-wide.jpg" alt="A bright blue sky" class="mw5" />
   </div>
@@ -2795,15 +2795,15 @@
     </p>
   </div>
 </div>
-`],
-[`Four Column Collapse Two Collapse One`, `<section class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/flag-object/screenshot.jpg" >`],
+[`layout / Four Column Collapse Two Collapse One`, `<section class="cf">
   <div class="fl w-100 w-50-m w-25-l bg-black-10 tc pv4">1</div>
   <div class="fl w-100 w-50-m w-25-l bg-black-05 tc pv4">2</div>
   <div class="fl w-100 w-50-m w-25-l bg-black-20 tc pv4">3</div>
   <div class="fl w-100 w-50-m w-25-l bg-black-30 tc pv4">4</div>
 </section>
-`],
-[`Four Column Collapse Two`, `<section class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/four-column-collapse-two-collapse-one/screenshot.jpg" >`],
+[`layout / Four Column Collapse Two`, `<section class="cf">
   <div class="fl w-50 w-25-ns"><img class="db w-100" src="http://tachyons.io/img/1.jpg" alt="night sky over house"></div>
   <div class="fl w-50 w-25-ns"><img class="db w-100" src="http://tachyons.io/img/2.jpg" alt="night sky over water"></div>
   <div class="fl w-50 w-25-ns"><img class="db w-100" src="http://tachyons.io/img/3.jpg" alt="bay bridge at night"></div>
@@ -2811,8 +2811,8 @@
 
 
 </section>
-`],
-[`Four Column`, `<div class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/four-column-collapse-two/screenshot.jpg" >`],
+[`layout / Four Column`, `<div class="cf">
   <div class="fl w-25 tc pv5 bg-black-05">
     1
   </div>
@@ -2826,8 +2826,8 @@
     4
   </div>
 </div>
-`],
-[`Full Bleed 16x9`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/four-column/screenshot.jpg" >`],
+[`layout / Full Bleed 16x9`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--16x9">
       <div style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -2949,8 +2949,8 @@
     </div>
   </div>
 </main>
-`],
-[`Full Bleed 4x6`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-16x9/screenshot.jpg" >`],
+[`layout / Full Bleed 4x6`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--4x6">
       <div style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -3072,8 +3072,8 @@
     </div>
   </div>
 </main>
-`],
-[`Full Bleed 5x7`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-4x6/screenshot.jpg" >`],
+[`layout / Full Bleed 5x7`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--5x7">
       <div style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -3195,8 +3195,8 @@
     </div>
   </div>
 </main>
-`],
-[`Full Bleed 5x8`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-5x7/screenshot.jpg" >`],
+[`layout / Full Bleed 5x8`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--5x8">
       <div style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -3318,8 +3318,8 @@
     </div>
   </div>
 </main>
-`],
-[`Full Bleed 6x4`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-5x8/screenshot.jpg" >`],
+[`layout / Full Bleed 6x4`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--6x4">
       <div style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -3441,8 +3441,8 @@
     </div>
   </div>
 </main>
-`],
-[`Full Bleed 7x5`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-6x4/screenshot.jpg" >`],
+[`layout / Full Bleed 7x5`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--7x5">
       <div style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -3564,8 +3564,8 @@
     </div>
   </div>
 </main>
-`],
-[`Full Bleed 8x5`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-7x5/screenshot.jpg" >`],
+[`layout / Full Bleed 8x5`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--8x5">
       <div style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -3687,8 +3687,8 @@
     </div>
   </div>
 </main>
-`],
-[`Full Bleed 9x16`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-8x5/screenshot.jpg" >`],
+[`layout / Full Bleed 9x16`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--9x16">
       <div style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -3810,8 +3810,8 @@
     </div>
   </div>
 </main>
-`],
-[`Full Bleed Square`, `<main class="cf w-100">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-9x16/screenshot.jpg" >`],
+[`layout / Full Bleed Square`, `<main class="cf w-100">
   <div class="fl w-50 w-third-m w-25-ns">
     <div class="aspect-ratio aspect-ratio--1x1">
       <img style="background-image:url(http://mrmrs.github.io/images/0006.jpg);"
@@ -3933,14 +3933,14 @@
     </div>
   </div>
 </main>
-`],
-[`Full Screen Centered Title`, `<article class="vh-100 dt w-100 bg-dark-pink">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-bleed-square/screenshot.jpg" >`],
+[`layout / Full Screen Centered Title`, `<article class="vh-100 dt w-100 bg-dark-pink">
   <div class="dtc v-mid tc white ph3 ph4-l">
     <h1 class="f6 f2-m f-subheadline-l fw6 tc">Vertically centering things in css is easy!</h1>
   </div>
 </article>
-`],
-[`Horizontal Aspect Ratios`, `<article class="mw5 mw7-ns center bg-light-gray pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/full-screen-centered-title/screenshot.jpg" >`],
+[`layout / Horizontal Aspect Ratios`, `<article class="mw5 mw7-ns center bg-light-gray pa3 pa5-ns">
   <h4 class="f6">16:9</h4>
   <div class="aspect-ratio aspect-ratio--16x9 mb4">
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
@@ -3966,8 +3966,8 @@
     <div class="aspect-ratio--object cover" style="background:url(http://mrmrs.github.io/photos/001.jpg) center;"></div>
   </div>
 </article>
-`],
-[`Three Column Collapse One`, `<div class="dt-ns dt--fixed-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/horizontal-aspect-ratios/screenshot.jpg" >`],
+[`layout / Three Column Collapse One`, `<div class="dt-ns dt--fixed-ns">
   <div class="dtc-ns tc pv4 bg-black-10">
     1
   </div>
@@ -3978,8 +3978,8 @@
     3
   </div>
 </div>
-`],
-[`Three Column`, `<div class="dt dt--fixed">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/three-column-collapse-one/screenshot.jpg" >`],
+[`layout / Three Column`, `<div class="dt dt--fixed">
   <div class="dtc tc pv4 bg-black-10">
     1
   </div>
@@ -3990,8 +3990,8 @@
     3
   </div>
 </div>
-`],
-[`Two Column Collapse One`, `<article class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/three-column/screenshot.jpg" >`],
+[`layout / Two Column Collapse One`, `<article class="cf">
   <div class="fl w-100 w-50-ns bg-near-white tc">
     <h1>Column One</h1>
   </div>
@@ -3999,8 +3999,8 @@
     <h1>Column Two</h1>
   </div>
 </article>
-`],
-[`Two Column`, `<article class="cf">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/two-column-collapse-one/screenshot.jpg" >`],
+[`layout / Two Column`, `<article class="cf">
   <div class="fl w-50 bg-near-white tc">
     <h1>Column One</h1>
   </div>
@@ -4008,12 +4008,12 @@
     <h1>Column Two</h1>
   </div>
 </article>
-`],
-[`Animate Background Color`, `<div class="pa4 lh-copy">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/layout/two-column/screenshot.jpg" >`],
+[`links / Animate Background Color`, `<div class="pa4 lh-copy">
   <a class="f4 fw7 dib pa2 no-underline bg-animate bg-white hover-bg-light-blue black" href="#0">bg-light-blue on hover </a>
 </div>
-`],
-[`Animate Color`, `<div class="pa4 lh-copy">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/links/animate-background-color/screenshot.jpg" >`],
+[`links / Animate Color`, `<div class="pa4 lh-copy">
   <a class="f4 fw6 db black link hover-near-black" href="#0">near-black on hover </a>
   <a class="f4 fw6 db black link hover-dark-gray" href="#0">dark-gray on hover </a>
   <a class="f4 fw6 db black link hover-mid-gray" href="#0">mid-gray on hover </a>
@@ -4031,8 +4031,8 @@
   <a class="f4 fw6 db black link hover-dark-blue" href="#0">dark-blue on hover </a>
   <a class="f4 fw6 db black link hover-blue" href="#0">blue on hover </a>
 </div>
-`],
-[`Dim No Underline`, `<div class="pa4 lh-copy">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/links/animate-color/screenshot.jpg" >`],
+[`links / Dim No Underline`, `<div class="pa4 lh-copy">
   <a class="f4 fw6 db black link dim" href="#0">Dim on hover </a>
   <a class="f4 fw6 db near-black link dim" href="#0">Dim on hover </a>
   <a class="f4 fw6 db dark-gray link dim" href="#0">Dim on hover </a>
@@ -4050,8 +4050,8 @@
   <a class="f4 fw6 db dark-blue link dim" href="#0">Dim on hover </a>
   <a class="f4 fw6 db blue link dim" href="#0">Dim on hover </a>
 </div>
-`],
-[`Underline On Hover`, `<div class="pa4 lh-copy">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/links/dim-no-underline/screenshot.jpg" >`],
+[`links / Underline On Hover`, `<div class="pa4 lh-copy">
   <a class="f4 fw6 db black no-underline underline-hover" href="#0">underline-hover on hover </a>
   <a class="f4 fw6 db near-black no-underline underline-hover" href="#0">underline-hover on hover </a>
   <a class="f4 fw6 db dark-gray no-underline underline-hover" href="#0">underline-hover on hover </a>
@@ -4069,8 +4069,8 @@
   <a class="f4 fw6 db dark-blue no-underline underline-hover" href="#0">underline-hover on hover </a>
   <a class="f4 fw6 db blue no-underline underline-hover" href="#0">underline-hover on hover </a>
 </div>
-`],
-[`Block Item Dotted Border`, `<div class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/links/underline-on-hover/screenshot.jpg" >`],
+[`lists / Block Item Dotted Border`, `<div class="pa3 pa5-ns">
   <ul class="list pl0 measure center">
     <li class="lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">Orange</li>
     <li class="lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">Apple</li>
@@ -4080,8 +4080,8 @@
     <li class="lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">Kiwi</li>
   </ul>
 </div>
-`],
-[`Border Spaced`, `<article class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/block-item-dotted-border/screenshot.jpg" >`],
+[`lists / Border Spaced`, `<article class="pa3 pa5-ns">
   <h1 class="f4 bold center mw6">Cats</h1>
   <ul class="list pl0 ml0 center mw6 ba b--light-silver br2">
     <li class="ph3 pv3 bb b--light-silver">Mackeral Tabby</li>
@@ -4093,8 +4093,8 @@
     <li class="ph3 pv3">American Bobtail</li>
   </ul>
 </article>
-`],
-[`Border Tight`, `<h1 class="f4 bold center mw5">Cats</h1>
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/border-spaced/screenshot.jpg" >`],
+[`lists / Border Tight`, `<h1 class="f4 bold center mw5">Cats</h1>
 <ul class="list pl0 ml0 center mw5 ba b--light-silver br3">
   <li class="ph3 pv2 bb b--light-silver">Mackeral Tabby</li>
   <li class="ph3 pv2 bb b--light-silver">Burmese</li>
@@ -4104,8 +4104,8 @@
   <li class="ph3 pv2 bb b--light-silver">Scottish Fold</li>
   <li class="ph3 pv2">American Bobtail</li>
 </ul>
-`],
-[`Contact Phone`, `<ul class="list pl0 mt0 measure center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/border-tight/screenshot.jpg" >`],
+[`lists / Contact Phone`, `<ul class="list pl0 mt0 measure center">
   <li
     class="flex items-center lh-copy pa3 ph0-l bb b--black-10">
       <img class="w2 h2 w3-ns h3-ns br-100" src="http://tachyons.io/img/avatar-mrmrs.jpg" />
@@ -4151,8 +4151,8 @@
       </div>
   </li>
 </ul>
-`],
-[`Follower Notifications Rounded Square Avatar`, `<main class="mw6 center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/contact-phone/screenshot.jpg" >`],
+[`lists / Follower Notifications Rounded Square Avatar`, `<main class="mw6 center">
     <article class="dt w-100 bb b--black-05 pb2 mt2" href="#0">
       <div class="dtc w2 w3-ns v-mid">
         <img src="http://mrmrs.github.io/photos/p/2.jpg" class="ba b--black-10 db br2 w2 w3-ns h2 h3-ns"/>
@@ -4266,8 +4266,8 @@
       </div>
     </article>
   </main>
-`],
-[`Follower Notifications`, `<main class="mw6 center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/follower-notifications-rounded-square-avatar/screenshot.jpg" >`],
+[`lists / Follower Notifications`, `<main class="mw6 center">
     <article class="dt w-100 bb b--black-05 pb2 mt2" href="#0">
       <div class="dtc w2 w3-ns v-mid">
         <img src="http://mrmrs.github.io/photos/p/2.jpg" class="ba b--black-10 db br-100 w2 w3-ns h2 h3-ns"/>
@@ -4381,8 +4381,8 @@
       </div>
     </article>
   </main>
-`],
-[`Hashtags`, `<section class="bg-washed-blue pa2 pa4-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/follower-notifications/screenshot.jpg" >`],
+[`lists / Hashtags`, `<section class="bg-washed-blue pa2 pa4-ns">
   <article class="ba b--black-10 br2 bg-white pa4 mw6 center">
     <div>
       <h4 class="f5 fw4 black-60 dib v-mid mv0 mr3">Hashtags</h4>
@@ -4394,48 +4394,48 @@
           <span class="fw7 underline-hover">#AmazingSerena</span>
           <span class="db black-60">134.5k mentions</span>
         </a>
-      </li>
+      </li>  
       <li class="pv2">
         <a href="#" class="link blue lh-title">
           <span class="fw7 underline-hover">#womenintech</span>
           <span class="db black-60">11k mentions</span>
         </a>
-      </li>
+      </li>  
       <li class="pv2">
         <a href="#" class="link blue lh-title">
           <span class="fw7 underline-hover">#SenWarrenRoastsWellsFargo</span>
           <span class="db black-60">99k mentions</span>
         </a>
-      </li>
+      </li>  
       <li class="pv2">
         <a href="#" class="link blue lh-title">
           <span class="fw7 underline-hover">#blackgirlmagic</span>
           <span class="db black-60">256.5k mentions</span>
         </a>
-      </li>
+      </li>  
       <li class="pv2">
         <a href="#" class="link blue lh-title">
           <span class="fw7 underline-hover">#becauseofthemwecan</span>
           <span class="db black-60">4.1k mentions</span>
         </a>
-      </li>
+      </li>  
       <li class="pv2">
         <a href="#" class="link blue lh-title">
           <span class="fw7 underline-hover">#gillscottheron</span>
           <span class="db black-60">20.11k mentions</span>
         </a>
-      </li>
+      </li>  
       <li class="pv2">
         <a href="#" class="link blue lh-title">
           <span class="fw7 underline-hover db">#trending</span>
           <span class="db black-60">4.1k mentions</span>
         </a>
-      </li>
+      </li>  
     </ul>
   </article>
 </section>
-`],
-[`Items Image Title Price`, `<main class="mw6 center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/hashtags/screenshot.jpg" >`],
+[`lists / Items Image Title Price`, `<main class="mw6 center">
   <article>
     <a class="link dt w-100 bb b--black-10 pb2 mt2 dim blue" href="#0">
       <div class="dtc w3">
@@ -4527,8 +4527,8 @@
     </a>
   </article>
 </main>
-`],
-[`Large Links Inline`, `<ul class="list pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/items-image-title-price/screenshot.jpg" >`],
+[`lists / Large Links Inline`, `<ul class="list pa3 pa5-ns">
   <li class="dib mr2"><a href="#" class="f4 f2-ns b db pa2 link dim mid-gray">Abyssinian</a></li>
   <li class="dib mr2"><a href="#" class="f4 f2-ns b db pa2 link dim mid-gray">Aegean</a></li>
   <li class="dib mr2"><a href="#" class="f4 f2-ns b db pa2 link dim mid-gray">Arabian</a></li>
@@ -4622,8 +4622,8 @@
   <li class="dib mr2"><a href="#" class="f4 f2-ns b db pa2 link dim mid-gray">Turkish</a></li>
   <li class="dib mr2"><a href="#" class="f4 f2-ns b db pa2 link dim mid-gray">United</a></li>
 </ul>
-`],
-[`Links Animate Color`, `<section class="pa3 pa4-m pa5-l">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/large-links-inline/screenshot.jpg" >`],
+[`lists / Links Animate Color`, `<section class="pa3 pa4-m pa5-l">
     <a class="f3 link hover-dark-blue b no-underline black dib ph2 pv1" href="http://mrmrs.github.io/gifolio">portfolio</a>
     <a class="f3 link b hover-blue no-underline black dib ph2 pv1" href="http://mrsjxn.com">music</a>
     <a class="f3 link b hover-light-blue no-underline black dib ph2 pv1" href="http://prnt.cc">print work</a>
@@ -4640,8 +4640,8 @@
     <a class="f3 link b hover-light-purple no-underline black dib ph2 pv1" href="http://unsplash.com/mrmrs">unsplash</a>
     <a class="f3 link b hover-purple no-underline black dib ph2 pv1" href="http://twitter.com/mrmrs_">twitter</a>
   </section>
-`],
-[`Links Inline`, `<ul class="list ph3 ph5-ns pv4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/links-animate-color/screenshot.jpg" >`],
+[`lists / Links Inline`, `<ul class="list ph3 ph5-ns pv4">
   <li class="dib mr2"><a href="#" class="f6 f5-ns b db pa2 link dim mid-gray">Abyssinian</a></li>
   <li class="dib mr2"><a href="#" class="f6 f5-ns b db pa2 link dim mid-gray">Aegean</a></li>
   <li class="dib mr2"><a href="#" class="f6 f5-ns b db pa2 link dim mid-gray">Arabian</a></li>
@@ -4735,8 +4735,8 @@
   <li class="dib mr2"><a href="#" class="f6 f5-ns b db pa2 link dim mid-gray">Turkish</a></li>
   <li class="dib mr2"><a href="#" class="f6 f5-ns b db pa2 link dim mid-gray">United</a></li>
 </ul>
-`],
-[`Links With Borders Inline`, `<ul class="list ph3 ph5-ns pv4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/links-inline/screenshot.jpg" >`],
+[`lists / Links With Borders Inline`, `<ul class="list ph3 ph5-ns pv4">
   <li class="dib mr1 mb2"><a href="#" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">Abyssinian</a></li>
   <li class="dib mr1 mb2"><a href="#" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">Aegean</a></li>
   <li class="dib mr1 mb2"><a href="#" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">Arabian</a></li>
@@ -4830,8 +4830,8 @@
   <li class="dib mr1 mb2"><a href="#" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">Turkish</a></li>
   <li class="dib mr1 mb2"><a href="#" class="f6 f5-ns b db pa2 link dim dark-gray ba b--black-20">United</a></li>
 </ul>
-`],
-[`Slab Stat Large`, `<article class="pa3 pa5-ns" data-name="slab-stat-large">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/links-with-borders-inline/screenshot.jpg" >`],
+[`lists / Slab Stat Large`, `<article class="pa3 pa5-ns" data-name="slab-stat-large">
   <h3 class="f6 ttu tracked">Today</h3>
   <div class="cf">
     <dl class="db dib-l w-auto-l lh-title mr6-l">
@@ -4860,8 +4860,8 @@
     </dl>
   </div>
 </article>
-`],
-[`Slab Stat Small`, `<article class="pa3 pa5-ns" data-name="slab-stat-small">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/slab-stat-large/screenshot.jpg" >`],
+[`lists / Slab Stat Small`, `<article class="pa3 pa5-ns" data-name="slab-stat-small">
   <h3 class="f6 ttu tracked">Today</h3>
   <div class="cf">
     <dl class="fl fn-l w-50 dib-l w-auto-l lh-title mr5-l">
@@ -4890,8 +4890,8 @@
     </dl>
   </div>
 </article>
-`],
-[`Slab Stat`, `<article class="pa3 pa5-ns" data-name="slab-stat">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/slab-stat-small/screenshot.jpg" >`],
+[`lists / Slab Stat`, `<article class="pa3 pa5-ns" data-name="slab-stat">
   <h1>Today</h1>
   <dl class="dib mr5">
     <dd class="f6 f5-ns b ml0">Closed Issues</dd>
@@ -4918,8 +4918,8 @@
     <dd class="f3 f2-ns b ml0">1,200</dd>
   </dl>
 </article>
-`],
-[`Title Text`, `<ul class="list pl0">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/slab-stat/screenshot.jpg" >`],
+[`lists / Title Text`, `<ul class="list pl0">
   <li class="pa3 pa4-ns bb b--black-10">
     <b class="db f3 mb1">alignment</b>
     <span class="f5 db lh-copy measure">
@@ -4983,10 +4983,10 @@ cap height
     </span>
   </li>
 </ul>
-`],
-[`Iphone App`, `<section class="flex-ns vh-100 items-center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/lists/title-text/screenshot.jpg" >`],
+[`marketing / Iphone App`, `<section class="flex-ns vh-100 items-center">
   <div class="mw6 ph5">
-    <img src="http://tachyons.io/img/iPhone7Vertical.jpg">
+    <img src="http://tachyons.io/img/iPhone7Vertical.jpg"> 
   </div>
   <div class="tc tl-ns ph3">
     <h1 class="f3 f1-l fw2 mb3 mt4 mt0-ns">Connect in a whole new way.</h1>
@@ -5121,8 +5121,8 @@ cap height
     </a>
   </div>
 </section>
-`],
-[`Fixed Semi Transparent`, `<header class="bg-black-90 fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/marketing/iphone-app/screenshot.jpg" >`],
+[`nav / Fixed Semi Transparent`, `<header class="bg-black-90 fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l">
   <nav class="f6 fw6 ttu tracked">
     <a class="link dim white dib mr3" href="#" title="Home">Home</a>
     <a class="link dim white dib mr3" href="#" title="About">About</a>
@@ -5130,8 +5130,8 @@ cap height
     <a class="link dim white dib" href="#" title="Contact">Contact</a>
   </nav>
 </header>
-`],
-[`Large Title Link List`, `<nav class="pa3 pa4-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/nav/fixed-semi-transparent/screenshot.jpg" >`],
+[`nav / Large Title Link List`, `<nav class="pa3 pa4-ns">
   <a class="link dim black b f1 f-headline-ns tc db mb3 mb4-ns" href="#" title="Home">Site Name</a>
   <div class="tc pb3">
     <a class="link dim gray f6 f5-ns dib mr3" href="#" title="Home">Home</a>
@@ -5140,8 +5140,8 @@ cap height
     <a class="link dim gray f6 f5-ns dib" href="#" title="Contact">Contact</a>
   </div>
 </nav>
-`],
-[`List Overflow`, `<nav class="ph3 ph5-ns pv4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/nav/large-title-link-list/screenshot.jpg" >`],
+[`nav / List Overflow`, `<nav class="ph3 ph5-ns pv4">
   <div class="nowrap overflow-x-auto">
     <a class="link dim gray f5 f4-ns dib mr3" href="#" title="Link 1">Link 1</a>
     <a class="link dim gray f5 f4-ns dib mr3" href="#" title="Link 2">Link 2</a>
@@ -5181,8 +5181,8 @@ cap height
     <a class="link dim gray f5 f4-ns dib mr3" href="#" title="Link 36">Link 36</a>
   </div>
 </nav>
-`],
-[`Logo Links Inline Collapse`, `<nav class="db dt-l w-100 border-box pa3 ph5-l">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/nav/list-overflow/screenshot.jpg" >`],
+[`nav / Logo Links Inline Collapse`, `<nav class="db dt-l w-100 border-box pa3 ph5-l">
   <a class="db dtc-l v-mid mid-gray link dim w-100 w-25-l tc tl-l mb2 mb0-l" href="#" title="Home">
     <img src="http://tachyons.io/img/logo.jpg" class="dib w2 h2 br-100" alt="Site Name">
   </a>
@@ -5194,8 +5194,8 @@ cap height
     <a class="link dim dark-gray f6 f5-l dib" href="#" title="Contact">Contact</a>
   </div>
 </nav>
-`],
-[`Logo Links Inline`, `<nav class="dt w-100 border-box pa3 ph5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/nav/logo-links-inline-collapse/screenshot.jpg" >`],
+[`nav / Logo Links Inline`, `<nav class="dt w-100 border-box pa3 ph5-ns">
   <a class="dtc v-mid mid-gray link dim w-25" href="#" title="Home">
     <img src="http://tachyons.io/img/logo.jpg" class="dib w2 h2 br-100" alt="Site Name">
   </a>
@@ -5205,8 +5205,8 @@ cap height
     <a class="link dim dark-gray f6 f5-ns dib" href="#" title="Contact">Join Us</a>
   </div>
 </nav>
-`],
-[`Logo Titles Links Centered`, `<header class="bg-white black-80 tc pv4 avenir">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/nav/logo-links-inline/screenshot.jpg" >`],
+[`nav / Logo Titles Links Centered`, `<header class="bg-white black-80 tc pv4 avenir">
   <a href="" class="bg-black-80 ba b--black dib pa3 w2 h2 br-100">
     <svg class="white" data-icon="skull" viewBox="0 0 32 32" style="fill:currentcolor"><title>skull icon</title><path d="M16 0 C6 0 2 4 2 14 L2 22 L6 24 L6 30 L26 30 L26 24 L30 22 L30 14 C30 4 26 0 16 0 M9 12 A4.5 4.5 0 0 1 9 21 A4.5 4.5 0 0 1 9 12 M23 12 A4.5 4.5 0 0 1 23 21 A4.5 4.5 0 0 1 23 12"></path></svg>
   </a>
@@ -5220,8 +5220,8 @@ cap height
     <a class="f6 f5-l link bg-animate black-80 hover-bg-light-yellow dib pa3 ph4-l" href="/contact">Contact</a>
   </nav>
 </header>
-`],
-[`Minimal Sign Up`, `<nav class="flex justify-between bb b--white-10">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/nav/logo-titles-links-centered/screenshot.jpg" >`],
+[`nav / Minimal Sign Up`, `<nav class="flex justify-between bb b--white-10">
   <a class="link white-70 hover-white no-underline flex items-center pa3" href="">
     <svg
       class="dib h1 w1"
@@ -5239,16 +5239,16 @@ cap height
     <a class="f6 dib white bg-animate hover-bg-white hover-black no-underline pv2 ph4 br-pill ba b--white-20" href="#0">Sign Up</a>
   </div>
 </nav>
-`],
-[`Title Link List`, `<nav class="pa3 pa4-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/nav/minimal-sign-up/screenshot.jpg" >`],
+[`nav / Title Link List`, `<nav class="pa3 pa4-ns">
   <a class="link dim black b f6 f5-ns dib mr3" href="#" title="Home">Site Name</a>
   <a class="link dim gray    f6 f5-ns dib mr3" href="#" title="Home">Home</a>
   <a class="link dim gray    f6 f5-ns dib mr3" href="#" title="About">About</a>
   <a class="link dim gray    f6 f5-ns dib mr3" href="#" title="Store">Store</a>
   <a class="link dim gray    f6 f5-ns dib" href="#" title="Contact">Contact</a>
 </nav>
-`],
-[`4x4 Mixed Grid`, `<article class="cf pa3 mw9 center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/nav/title-link-list/screenshot.jpg" >`],
+[`pages / 4x4 Mixed Grid`, `<article class="cf pa3 mw9 center">
   <header class="fl w-100 w-50-l pa3-m pa4-l mb3 mb5-l">
     <h2 class="lh-title f3 b mt0">
       Beginners and amateurs alike overestimate the importance of the
@@ -5258,9 +5258,9 @@ cap height
   <section class="fl w-100">
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        Perfect typography depends on perfect harmony between all of its elements.
+        Perfect typography depends on perfect harmony between all of its elements. 
         Harmony is determined by relationships
-        or proportions. Proportions are hidden everywhere. words themselves.
+        or proportions. Proportions are hidden everywhere. words themselves. 
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
@@ -5271,7 +5271,7 @@ cap height
         perfect thing lives somewhere in the neighborhood of dullness and
         is frequently mistaken for it by the insensitive. In a time that
         hungers for tangible novelties, dull perfection holds no
-        advertising value at all.
+        advertising value at all. 
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
@@ -5279,7 +5279,7 @@ cap height
         In a masterpiece of typography, the artist's signature has been
         eliminated. What some may praise as personal styles are in reality
         small and empty peculiarities, frequently damaging, that masquerade
-        as innovations.
+        as innovations. 
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pa3-m pa4-l">
@@ -5355,11 +5355,11 @@ cap height
       </div>
     </div>
   </section>
-
+   
 
 </article>
-`],
-[`Double`, `<main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/pages/4x4-mixed-grid/screenshot.jpg" >`],
+[`pages / Double`, `<main class="w-100 cf helvetica dark-gray bg-white pa3 pa4-m pa5-l mw9 center">
     <div class="fl w-50 pr2 pr3-l mb3 mb4-l">
       <div class="cover pv5 pv6-m pv7-l" style="background:black url(http://mrmrs.github.io/photos/v/022.jpg) center;"></div>
     </div>
@@ -5376,7 +5376,7 @@ cap height
       <div class="pa4">
         <h1 class="f4 f2-l fw7 mt0 pv3-l bb-l bb--black">#004</h1>
         <p class="lh-copy mt2 mt3-m mt5-l f6">
-          <span class="db-ns f6 fw7 lh-solid mb3 mb0-m mb4-l">Mies, my great mentor said:</span>
+          <span class="db-ns f6 fw7 lh-solid mb3 mb0-m mb4-l">Mies, my great mentor said:</span> 
           <span class="fw9 f6 f1-l db lh-title mb3 mb4-l">“God is in the details.”</span>
           <span class="db-l measure-wide">
           That is the essence of syntax: the discipline
@@ -5418,10 +5418,10 @@ cap height
           place it in the grid in such a way that the clarity of the message will
           be enhanced by the placement of the text on the grid. There are in nite
           ways of doing this and that is why the grid is a useful tool, rather
-          than a constricting device.
+          than a constricting device. 
         </p>
       </div>
-
+    
       <div class="fl w-100 w-75-l pv0 mv0">
         <div class="fl w-100 mb2 mb4-l">
           <div class="cover pv5 pv6-l" style="background:black url(http://mrmrs.github.io/photos/u/001.jpg) center;"> </div>
@@ -5438,8 +5438,8 @@ cap height
       </div>
     </div>
 </main>
-`],
-[`Portfolio Project`, `<main>
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/pages/double/screenshot.jpg" >`],
+[`pages / Portfolio Project`, `<main>
   <article class="bg-white">
     <div class="vh-75 cover bg-center" style="background-image: url(http://mrmrs.github.io/photos/001.jpg);"></div>
     <div class="ph4 ph5-m ph6-l">
@@ -5513,8 +5513,8 @@ cap height
     </a>
   </section>
 </main>
-`],
-[`Swiss Cover Five Columns`, `<main class="cf pa3 pa4-m pa5-l mw9 center">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/pages/portfolio-project/screenshot.jpg" >`],
+[`pages / Swiss Cover Five Columns`, `<main class="cf pa3 pa4-m pa5-l mw9 center">
   <div class="fr w-100 w-80-l">
     <p class="f6">
       Beitrage zut
@@ -5527,17 +5527,17 @@ cap height
     <div class="fl-ns w-100 w-20-l pr3-m pr5-l">
       <p>
         Jahrbuch <small class="fw6">1968/69</small>
-      </p>
+      </p> 
     </div>
     <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
       <p>
         Institut suisse pour l'étude de l'art
-      </p>
+      </p> 
     </div>
     <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
       <p>
         Schweizerisches<br class="dn db-l"> Institut für Kunstwissenschaft
-      </p>
+      </p> 
     </div>
     <div class="fl-ns w-50-m w-20-l pr3-m pr5-l">
       <p>
@@ -5552,8 +5552,8 @@ cap height
   </div>
   <img src="http://mrmrs.github.io/photos/u/007.jpg" class="db" alt="iceland"/>
 </main>
-`],
-[`Left Border`, `<div class="pa4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/pages/swiss-cover-five-columns/screenshot.jpg" >`],
+[`quotes / Left Border`, `<div class="pa4">
   <blockquote class="athelas ml0 mt0 pl4 black-90 bl bw2 b--blue">
     <p class="f5 f4-m f3-l lh-copy measure mt0">
       Discipline in typography is a prime virtue. Individuality
@@ -5566,8 +5566,8 @@ cap height
     <cite class="f6 ttu tracked fs-normal">―Stanley Morison</cite>
   </blockquote>
 </div>
-`],
-[`Pull Quote`, `<article class="athelas pa4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/quotes/left-border/screenshot.jpg" >`],
+[`quotes / Pull Quote`, `<article class="athelas pa4">
   <p class="f6 f4-ns lh-copy measure center">
     The form of our letters, the older handwriting and inscriptions as much as
     the cuttings in use today, reflects a convention that has slowly solidified,
@@ -5591,8 +5591,8 @@ cap height
   </p>
 
 </article>
-`],
-[`Basic`, `<div class="pa4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/quotes/pull-quote/screenshot.jpg" >`],
+[`tables / Basic`, `<div class="pa4">
   <div class="overflow-auto">
     <table class="f6 w-100 mw8 center" cellspacing="0">
       <thead>
@@ -5638,8 +5638,8 @@ cap height
     </table>
   </div>
 </div>
-`],
-[`Striped Dark`, `<div class="pa4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/tables/basic/screenshot.jpg" >`],
+[`tables / Striped Dark`, `<div class="pa4">
   <div class="overflow-auto">
     <table class="f6 w-100 mw8 center" cellspacing="0">
       <thead>
@@ -5685,8 +5685,8 @@ cap height
     </table>
   </div>
 </div>
-`],
-[`Large Paragraph`, `<main class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/tables/striped-dark/screenshot.jpg" >`],
+[`text / Large Paragraph`, `<main class="pa3 pa5-ns">
    <p class="f4 lh-copy measure">
      Typography has one plain duty before it and that is to convey information
      in writing. No argument or consideration can absolve typography from this
@@ -5694,8 +5694,8 @@ cap height
      purpose.
    </p>
 </main>
-`],
-[`Narrow Paragraph`, `<div class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/text/large-paragraph/screenshot.jpg" >`],
+[`text / Narrow Paragraph`, `<div class="pa3 pa5-ns">
    <p class="f5 lh-copy measure-narrow">
      Typography has one plain duty before it and that is to convey information
      in writing. No argument or consideration can absolve typography from this
@@ -5703,8 +5703,8 @@ cap height
      purpose.
    </p>
 </div>
-`],
-[`Paragraph`, `<main class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/text/narrow-paragraph/screenshot.jpg" >`],
+[`text / Paragraph`, `<main class="pa3 pa5-ns">
    <p class="f5 lh-copy measure">
      Typography has one plain duty before it and that is to convey information
      in writing. No argument or consideration can absolve typography from this
@@ -5712,8 +5712,8 @@ cap height
      purpose.
    </p>
 </main>
-`],
-[`Small Narrow Paragraph`, `<main class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/text/paragraph/screenshot.jpg" >`],
+[`text / Small Narrow Paragraph`, `<main class="pa3 pa5-ns">
    <p class="f6 lh-copy measure-narrow">
      Typography has one plain duty before it and that is to convey information
      in writing. No argument or consideration can absolve typography from this
@@ -5721,8 +5721,8 @@ cap height
      purpose.
    </p>
 </main>
-`],
-[`Small Paragraph`, `<main class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/text/small-narrow-paragraph/screenshot.jpg" >`],
+[`text / Small Paragraph`, `<main class="pa3 pa5-ns">
    <p class="f6 lh-copy measure">
      Typography has one plain duty before it and that is to convey information
      in writing. No argument or consideration can absolve typography from this
@@ -5730,8 +5730,8 @@ cap height
      purpose.
    </p>
 </main>
-`],
-[`Title Subtitle Centered`, `<header class="tc ph4">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/text/small-paragraph/screenshot.jpg" >`],
+[`text / Title Subtitle Centered`, `<header class="tc ph4">
   <h1 class="f3 f2-m f1-l fw2 black-90 mv3">
     This is the title
   </h1>
@@ -5739,8 +5739,8 @@ cap height
     This is the subtitle where additional information can go if you really need it.
   </h2>
 </header>
-`],
-[`Wide Paragraph`, `<div class="pa3 pa5-ns">
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/text/title-subtitle-centered/screenshot.jpg" >`],
+[`text / Wide Paragraph`, `<div class="pa3 pa5-ns">
    <p class="f5 lh-copy measure-wide">
      Typography has one plain duty before it and that is to convey information
      in writing. No argument or consideration can absolve typography from this
@@ -5748,4 +5748,4 @@ cap height
      purpose.
    </p>
 </div>
-`]
+`, `<img class="fl mr2 w3" src="/img/craftyons/components/text/wide-paragraph/screenshot.jpg" >`],

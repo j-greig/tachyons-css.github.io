@@ -75,10 +75,12 @@ const getComponents = options => new Promise((resolve, reject) => {
 
         // Write to config file
         components += `[\``;
+        components += category + ' / ';
         components += frontMatter.name ||
           (options.components.prettify.id ? options.components.prettify.id(id) : id);
         components += `\`, \``;
         components += strippedComponentHtml;
+        components += `\`, \`<img class="fl mr2 w3" src="/img/craftyons/components/` + category + `/` + id + `/screenshot.jpg" >`;
         components += `\`],\n`
 
       }
@@ -94,12 +96,11 @@ module.exports = _options => new Promise((resolve, reject) => {
   getComponents(options).then((components) => {
     mkdirp.sync(path.dirname(options.components.tempListPath));
     fs.writeFileSync(options.components.tempListPath, components);
-    // fs.writeFileSync(options.components.tempListPath, components));
-    // fs.writeFileSync(options.components.tempListPath, JSON.stringify(components), 'utf8', (err) => {
-    //   if (err) throw err;
-    // });
     console.log('- Working on components config for Craft CMS / Redactor Clips plugin:', options.components.tempListPath);
     const elapsed = process.hrtime(startTime);
     console.log(chalk.magenta('Done with Redactor Clips component config file!'), chalk.dim(prettyHrtime(elapsed)));
   }).then(resolve).catch(reject);
 }); // return promise
+
+// Example of a target image path for Craft Clips plugin
+// <img src="/img/craftyons/components/article-lists/title-preview-author-media/screenshot.jpg" width="auto" height="80px">
